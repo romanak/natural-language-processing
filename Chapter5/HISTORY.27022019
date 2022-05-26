@@ -1,0 +1,375 @@
+   32  python train_sentiment.py
+  109  which python
+  153  python latex2png.py latex/ch1_bow1.tex latex/ch1_bow1.png
+  158  python latex2png.py latex/ch1_bow1
+  162  pythin ../latex2png.py ch1_bow1
+  163  python ../latex2png.py ch1_bow1
+  169  python ../latex2png.py ch1_bow1
+  170  python latex2png.py latex/ch1_bow1
+  172  python latex2png.py latex/ch1_bow1
+  174  python latex2png.py latex/ch1_bow1
+  178  python latex2png.py latex/ch1_bow1
+  182  python latex2png.py latex/ch1_bow1
+  185  python latex2png.py latex/ch1_bow1
+  190  python latex2png.py latex/ch1_bow1
+  193  python latex2png.py latex/ch1_bow1
+  201  python latex2png.py latex/ch1_bow1
+  204  python latex2png.py latex/ch1_bow1
+  208  python latex2png.py latex/ch1_bow1
+  212  python latex2png.py latex/ch1_bow1
+  218  python latex2png.py latex/ch1_bow1
+  221  python latex2png.py latex/ch1_bow1
+  224  python latex2png.py latex/ch1_bow1
+  226  python latex2png.py latex/ch1_bow1
+  228  python latex2png.py latex/ch1_bow1
+  230  python latex2png.py latex/ch1_bow1
+  232  python latex2png.py latex/ch1_bow1
+  235  python latex2png.py latex/ch1_bow1
+  453  python latex2png.py rbf_kernel.txt rbf.png
+  455  python latex2png.py rbf_kernel.txt rbf.png
+  464  python latex2png.py rbf_kernel.txt ../manuscript/images/rbf_kernel.png
+  466  python latex2png.py poly_kernel.txt ../manuscript/images/poly_kernel.png
+  468  python latex2png.py linear_kernel.txt ../manuscript/images/linear_kernel.png
+  473  python latex2png.py summed_input_perceptron.txt ../manuscript/images/summed_input_perceptron.png
+  488  python latex2png.py kernel_dot.txt ../manuscript/images/kernel_dot.png
+  490  python latex2png.py kernel_dot.txt ../manuscript/images/kernel_dot.png
+  492  python latex2png.py kernel_dot.txt ../manuscript/images/kernel_dot.png
+  494  python latex2png.py poly_kernel_example_1.txt ../manuscript/images/poly_kernel_example_1.png
+  496  python latex2png.py dot_product.txt ../manuscript/images/dot_product.png
+  498  python latex2png.py poly_kernel_example_1.txt ../manuscript/images/poly_kernel_example_1.png
+  507  python latex2png.py poly_kernel_example_1.txt ../manuscript/images/poly_kernel_example_1.png
+  514  python
+  569  python
+  571  python 
+  598  python perceptron_2.py
+  600  python perceptron_2.py
+  602  python perceptron_2.py
+  604  python perceptron_2.py
+  606  python perceptron_2.py
+  608  python perceptron_2.py
+  610  python perceptron_2.py
+  612  python perceptron_2.py
+  614  python perceptron_2.py
+  616  python perceptron_2.py
+  625  python perceptron.py
+  671  python latex2png_preambule.py ch1_tree.tex ch1_tree.png "\usepackage{qtree}"
+  675  python latex2png_preambule.py ch1_tree.tex ch1_tree.png "\usepackage{qtree}"
+  676  python latex2png_preamble.py ch1_tree.tex ch1_tree.png "\usepackage{qtree}"
+  679  python latex2png_preamble.py ch1_tree.tex ch1_tree.png "\usepackage{qtree}"
+  681  python latex2png_preamble.py ch1_tree.tex ch1_tree.png "\usepackage{qtree}"
+  683  python latex2png_preamble.py ch1_tree.tex ch1_tree.png "\usepackage{qtree}"
+  685  python latex2png_preamble.py ch1_tree.tex ch1_tree.png "\usepackage{qtree}"
+  689  python latex2png_preamble.py ch1_tree.tex ch1_tree.png "\usepackage{qtree}"
+  692  python latex2png_preamble.py ch1_tree.tex ch1_tree.png "\usepackage{tikz}"
+  694  python latex2png_preamble.py ch1_tree.tex ch1_tree.png "\usepackage{tikz}"
+  696  python latex2png_preamble.py ch1_tree.tex ch1_tree.png "\usepackage{tikz}"
+  698  python latex2png_preamble.py ch1_tree.tex ch1_tree.png "\usepackage{forest}"
+  708  python latex2png_preamble.py ch1_tree.tex ch1_tree.png "\usepackage{forest}"
+  725  python
+  758  python gan.py
+  903  python sentiment_lstm.py ~/Downloads/DATA/subj_obj.tsv.perm
+  905  python sentiment_lstm.py ~/Downloads/DATA/subj_obj.tsv.perm
+  907  python sentiment_lstm.py ~/Downloads/DATA/subj_obj.tsv.perm
+  909  python sentiment_lstm.py ~/Downloads/DATA/subj_obj.tsv.perm
+  911  python sentiment_lstm.py ~/Downloads/DATA/subj_obj.tsv.perm
+  915  python sentiment_lstm.py ~/Downloads/DATA/subj_obj.tsv.perm
+  917  python sentiment_lstm.py ~/Downloads/DATA/subj_obj.tsv.perm
+  920  python sentiment_lstm.py ~/Downloads/DATA/subj_obj.tsv.perm
+  922  python sentiment_lstm.py ~/Downloads/DATA/subj_obj.tsv.perm
+  999  python generate_text.py
+ 1005  python
+ 1007  python
+ 1010  python
+ 1011  python adversarial_autoencoder_text.py
+ 1013  python adversarial_autoencoder_text.py
+ 1015  python adversarial_autoencoder_text.py
+ 1018  python char_seq2seq.py ~/DATA/paired.txt
+ 1020  python char_seq2seq.py ~/DATA/paired.txt
+ 1021  python
+ 1029  python
+ 1054  history|grep pyth
+ 1080  pythion
+ 1081  python
+ 1082  python autocompletion_lstm.py
+ 1317  echo "python sentiment_lstm.py ~/Downloads/DATA/subj_obj.tsv.perm" > LOG.txt
+ 1318  python sentiment_lstm.py ~/Downloads/DATA/subj_obj.tsv.perm
+ 1334  python cnn_sentiment.py ~/Downloads/DATA/subj_obj.tsv.perm
+ 1339  python cnn_sentiment.py ~/Downloads/DATA/subj_obj.tsv.perm
+ 1347  python cnn_sentiment.py ~/Downloads/DATA/subj_obj.tsv.perm
+ 1349  python cnn_sentiment.py ~/Downloads/DATA/subj_obj.tsv.perm
+ 1350  python cnn_sentiment_2D.py ~/Downloads/DATA/subj_obj.tsv.perm
+ 1351  python cnn_sentiment.py ~/Downloads/DATA/subj_obj.tsv.perm
+ 1358  python cnn_sentiment.py ~/Downloads/DATA/subj_obj.tsv.perm
+ 1370  python cnn_sentiment.py ~/Downloads/DATA/subj_obj.tsv.perm
+ 1374  python cnn_sentiment.py ~/Downloads/DATA/subj_obj.tsv.perm
+ 1377  python cnn_sentiment.py ~/Downloads/DATA/subj_obj.tsv.perm
+ 1378  python
+ 1394  python rnn_chars.py
+ 1397  python rnn_chars.py
+ 1400  python rnn_chars.py
+ 1402  python rnn_chars.py
+ 1405  python rnn_chars.py
+ 1413  python rnn_chars.py
+ 1433  python
+ 1436  python
+ 1440  python lstm_chars.py
+ 1445  python lstm_chars.py
+ 1463  python
+ 1475  python keras_embedding.py
+ 1476  python keras_embedding_tsne.py
+ 1505  python
+ 1521  python keras_embedding_labeled_tsne_load_existing.py ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.train  ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.test ~/DATA/embedding_yelp_w2v_impl3_100_100_1000.txt
+ 1523  python keras_embedding_labeled_tsne_load_existing.py ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.train  ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.test ~/DATA/embedding_yelp_w2v_impl3_100_100_1000.txt
+ 1524  python keras_embedding_labeled_tsne_pretty.py ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.train  ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.test 
+ 1525  python keras_embedding_labeled_tsne_load_existing.py ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.train  ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.test embedding_labeled.txt
+ 1526  python keras_embedding_labeled_tsne_load_existing.py ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.train  ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.test ~/DATA/embedding_yelp_w2v_impl3_100_100_1000.txt
+ 1527  python keras_embedding_labeled_tsne_load_existing.py ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.train  ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.test ~/Downloads/glove.6B.zip
+ 1532  python keras_embedding_labeled_tsne_load_existing.py ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.train  ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.test ~/Downloads/glove.6B.zip
+ 1533  python keras_embedding_labeled_tsne_load_existing.py ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.train  ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.test embedding_labeled.txt
+ 1534  python keras_embedding_labeled_tsne_load_existing.py ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.train  ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.test ~/Downloads/glove.6B.zip
+ 1535  python keras_embedding_labeled_tsne_load_existing.py ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.train  ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.test embedding_labeled.txt
+ 1536  python keras_embedding_labeled_tsne_load_existing.py ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.train  ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.test ~/Downloads/glove.6B.zip
+ 1537  python keras_embedding_labeled_tsne.py ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.train  ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.test 
+ 1538  python keras_embedding_labeled_tsne_load_existing.py ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.train  ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.test embedding_labeled2.txt
+ 1539  python keras_embedding_labeled_tsne_load_existing.py ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.train  ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.test embedding_labeled.txt
+ 1540  python keras_embedding_labeled_tsne_load_existing.py ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.train  ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.test ~/Downloads/glove.6B.zip
+ 1816  python variational_autoencoder.py obama.tweets trump.tweets
+ 1817  python
+ 1818  python variational_autoencoder.py obama.tweets trump.tweets
+ 1820  python variational_autoencoder.py obama.tweets trump.tweets
+ 1822  python variational_autoencoder.py obama.tweets trump.tweets
+ 1823  python variational_autoencoder.py obama.tweets
+ 1824  cat obama.tweets|python -m "print"
+ 1825  man python
+ 1826  cat obama.tweets|python -c "print"
+ 1827  cat obama.tweets|python -c "import sys; for line in ssys.open(argv[12],"r") print"
+ 1828  python variational_autoencoder.py obama.tweets
+ 1829  python variational_autoencoder.py obama.tweets\\n
+ 1830  python variational_autoencoder.py obama.tweets\n
+ 1831  python variational_autoencoder.py obama.tweets tweets.txt\n
+ 1832  python variational_autoencoder.py tweets.txt tweets.txt\n
+ 1833  python variational_autoencoder.py obama.tweets tweets.txt\n
+ 1835  python variational_autoencoder.py obama.tweets tweets.txt\n
+ 1837  python variational_autoencoder.py obama.tweets tweets.txt\n
+ 1838  python variational_autoencoder.py tweets.txt tweets.txt\n
+ 1839  python variational_autoencoder.py obama.tweets tweets.txt\n
+ 1840  python variational_autoencoder.py obama.tweets tweets.txt 3\n
+ 1841  python variational_autoencoder.py obama.tweets tweets.txt 10\n
+ 1851  python babi_memnn.py
+ 1854  python babi_memnn.py
+ 1855  python anaphora_memnn.py qa.train qa.test
+ 1982  python  keras_embedding_docs_tsne.py
+ 1984  python  keras_embedding_docs_tsne.py
+ 2026  python keras_embedding_docs_tsne.py
+ 2039  python
+ 2045  python
+ 2103  history|grep python|grep w2v
+ 2184  python dimin_embedding_v3.py ~/DATA/dimin.train ~/DATA/dimin.train ~/DATA/dimin.test
+ 2193  echo "python dimin_embedding_v3.py ~/DATA/dimin.train ~/DATA/dimin.train ~/DATA/dimin.test" > RUN.sh
+ 2322  python latex2png.py poly_kernel_example_1.txt.tex poly_kernel.png
+ 2323  python latex2png.py poly_kernel_example_1.txt  poly_kernel.png
+ 2327  python latex2png.py poly_kernel_example_1.txt  poly_kernel.png
+ 2338  python latex2png.py poly_kernel_example_1.txt  poly_kernel.png
+ 2341  python latex2png.py poly_kernel_example_1.txt  poly_kernel.png
+ 2344  python latex2png.py poly_kernel_example_1.txt  poly_kernel.png
+ 2391  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt
+ 2393  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt
+ 2396  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt
+ 2409  python qa_rnn_cnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2411  python qa_rnn_cnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2414  python qa_rnn_cnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2417  python imdb_cnn_lstm.py
+ 2419  python qa_rnn_cnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2420  python
+ 2421  python qa_rnn_cnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2422  python
+ 2423  python qa_rnn_cnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2424  python qa_rnn_stacked_lstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2425  python qa_rnn_attention.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2426  python qa_rnn_stacked_lstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2427  python qa_rnn_attention.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2428  python qa_memnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2465  python hatt.py train_data.tsv 
+ 2467  python hatt.py train_data.tsv 
+ 2469  python hatt.py train_data.tsv 
+ 2538  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2541  pythion
+ 2542  python
+ 2543  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2544  python qa_lstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_saingle-supporting-fact_test.txt
+ 2545  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2546  python qa_lstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2547  python qa_memnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2548  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2551  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt
+ 2553  python
+ 2554  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt "True"
+ 2555  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt "False"
+ 2556  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt "True"
+ 2557  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt "False"
+ 2558  python
+ 2559  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt "False"
+ 2560  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt "True"
+ 2562  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2563  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2564  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2565  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2566  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 3
+ 2567  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2568  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt "True"
+ 2569  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2570  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 5
+ 2571  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2572  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 100
+ 2573  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt "True"
+ 2574  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt "False"
+ 2575  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 100
+ 2576  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2577  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2578  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 3
+ 2579  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2580  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 3
+ 2581  python qa_rnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 5
+ 2587  python qa_lstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 5
+ 2588  python qa_lstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2589  python qa_lstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2590  python qa_bi_lstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2591  python qa_bi_lstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 5
+ 2592  python qa_bi_lstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2593  python qa_gru.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2594  python qa_lstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2598  python qa_lstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2599  python qa_lstm_onelstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2601  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2608  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2609  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2610  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2611  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2612  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2613  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2614  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 3
+ 2615  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2616  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2617  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2621  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2622  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2623  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2624  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2625  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2629  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2631  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2632  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2633  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2634  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2635  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2636  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2637  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2638  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2639  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2640  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2641  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2642  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2669  python qa_lstm_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2674  python qa_rnn_memtest.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2696  python
+ 2698  python qa_lstm_stateful.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2700  python qa_lstm_stateful.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2701  python qa_lstm_stateful.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2703  python qa_lstm_stateful.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2705  python qa_lstm_stateful.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2706  python
+ 2707  python qa_lstm_stateful.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2708  python
+ 2709  python qa_lstm_stateful.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2710  pythin
+ 2711  python
+ 2712  python qa_lstm_stateful.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2714  python qa_lstm_stateful.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2762  python -m pip --version
+ 2763  python -m pip install -U floyd-cli
+ 2764  python -m pip install --upgrade pip
+ 2765  sudo python -m pip install --upgrade pip
+ 2811  python qa_lstm_stateful.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2813  python qa_lstm_stateful.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2814  python
+ 2815  python qa_lstm_stateful.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2821  python qa_lstm_stateful.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2823  python qa_lstm_stateful.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2824  python
+ 2825  python qa_lstm_stateful.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2829  python qa_memnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 
+ 2832  python qa_memnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 
+ 2833  python qa_memnn_simple.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 
+ 2834  python qa_memnn.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 
+ 2835  python qa_memnn_simple.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 
+ 2843  python qa_memnn_simple_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 
+ 2844  python qa_memnn_simple_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2845  python qa_memnn_simple.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 
+ 2846  python qa_memnn_simple_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2847  python qa_memnn_simple_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2848  python qa_memnn_simple_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2852  python qa_memnn_simple_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2854  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2855  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 
+ 2856  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2857  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2859  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2861  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2864  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2865  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2876  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2877  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2878  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 6
+ 2880  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2894  python qa_lstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 0
+ 2895  python qa_lstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2896  python qa_lstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2897  python qa_lstm.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2898  python qa_lstm_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2899  python qa_lstm_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2900  python qa_lstm_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2901  python qa_lstm_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2904  python qa_lstm_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2905  python qa_lstm_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 8
+ 2906  python qa_lstm_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 6
+ 2907  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2908  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2909  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 6
+ 2910  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_test.txt 2
+ 2911  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_test.txt 4
+ 2912  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_test.txt 1
+ 2913  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_test.txt 2
+ 2914  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_test.txt 8
+ 2915  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_test.txt 6
+ 2916  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_test.txt 4
+ 2917  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_test.txt 2
+ 2918  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_test.txt 1
+ 2919  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_test.txt 2
+ 2920  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en/qa1_single-supporting-fact_test.txt 4
+ 2921  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 6
+ 2922  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2923  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2924  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 6
+ 2925  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 8
+ 2926  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 6
+ 2927  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt -1
+ 2928  python qa_lstm_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt -1
+ 2929  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt -1
+ 2930  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 8
+ 2931  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt -1
+ 2932  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 6
+ 2933  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 4
+ 2934  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 8
+ 2935  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2
+ 2936  python qa_lstm_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 8
+ 2937  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt -1
+ 2938  python qa_lstm_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt -1
+ 2939  echo "python qa_lstm_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 2" > LSTM.sh
+ 2947  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2962  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 6
+ 2963  echo "python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 6 > rnn.results" > RNN.sh
+ 2967  python qa_lstm_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt -1
+ 2972  python qa_memnn_simple_v2_pretty.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt 1
+ 2973  python qa_lstm_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt -1
+ 2974  python qa_rnn_v2.py ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_train.txt ~/DATA/bAbI/tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_test.txt -1
+ 2990  history|grep pyt

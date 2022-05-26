@@ -1,0 +1,1 @@
+python keras_embedding_labeled_tsne.py ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.train  ~/DATA/UCI_SENTIMENT/sentiment\ labelled\ sentences/yelp_labelled.txt.test 

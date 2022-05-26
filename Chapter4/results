@@ -1,0 +1,71 @@
+attrib_mlp_floyd.py
+
+
+2018-09-27 13:56:53,088 INFO - 9s - loss: 2.1885 - acc: 0.2414 - val_loss: 1.3561 - val_acc: 0.5604
+2018-09-27 13:56:53,088 INFO - Epoch 2/10
+2018-09-27 13:56:58,072 INFO - 4s - loss: 0.3025 - acc: 0.9312 - val_loss: 1.0962 - val_acc: 0.6648
+2018-09-27 13:56:58,072 INFO - Epoch 3/10
+2018-09-27 13:57:03,069 INFO - 4s - loss: 0.0547 - acc: 0.9957 - val_loss: 0.9891 - val_acc: 0.7069
+2018-09-27 13:57:03,070 INFO - Epoch 4/10
+2018-09-27 13:57:08,066 INFO - 4s - loss: 0.0455 - acc: 0.9968 - val_loss: 0.9696 - val_acc: 0.7044
+2018-09-27 13:57:08,066 INFO - Epoch 5/10
+2018-09-27 13:57:13,066 INFO - 4s - loss: 0.0450 - acc: 0.9968 - val_loss: 0.9681 - val_acc: 0.7075
+2018-09-27 13:57:13,066 INFO - Epoch 6/10
+2018-09-27 13:57:18,063 INFO - 4s - loss: 0.0445 - acc: 0.9970 - val_loss: 0.9765 - val_acc: 0.7088
+2018-09-27 13:57:18,064 INFO - Epoch 7/10
+2018-09-27 13:57:23,069 INFO - 5s - loss: 0.0444 - acc: 0.9970 - val_loss: 0.9866 - val_acc: 0.7101
+2018-09-27 13:57:23,070 INFO - Epoch 8/10
+2018-09-27 13:57:28,065 INFO - 4s - loss: 0.0442 - acc: 0.9968 - val_loss: 0.9884 - val_acc: 0.7119
+2018-09-27 13:57:28,065 INFO - Epoch 9/10
+2018-09-27 13:57:33,071 INFO - 5s - loss: 0.0441 - acc: 0.9970 - val_loss: 0.9921 - val_acc: 0.7138
+2018-09-27 13:57:33,071 INFO - Epoch 10/10
+2018-09-27 13:57:38,082 INFO - 5s - loss: 0.0440 - acc: 0.9970 - val_loss: 1.0012 - val_acc: 0.7151
+2018-09-27 13:57:38,246 INFO - Accuracy: 69.003831
+
+
+attrib_cnn_floyd.py
+
+018-09-27 13:50:48,587 INFO - 92s - loss: 1.6311 - acc: 0.4364 - val_loss: 0.4215 - val_acc: 0.8566
+2018-09-27 13:50:48,588 INFO - Epoch 2/10
+2018-09-27 13:50:51,496 INFO - 2s - loss: 0.1901 - acc: 0.9412 - val_loss: 0.7393 - val_acc: 0.7962
+2018-09-27 13:50:51,497 INFO - Epoch 3/10
+2018-09-27 13:50:54,441 INFO - 2s - loss: 0.1236 - acc: 0.9617 - val_loss: 0.4675 - val_acc: 0.8836
+2018-09-27 13:50:54,441 INFO - Epoch 4/10
+2018-09-27 13:50:57,367 INFO - 2s - loss: 0.0682 - acc: 0.9787 - val_loss: 0.8683 - val_acc: 0.8403
+2018-09-27 13:50:57,368 INFO - Epoch 5/10
+2018-09-27 13:51:00,310 INFO - 2s - loss: 0.0944 - acc: 0.9760 - val_loss: 1.1780 - val_acc: 0.8082
+2018-09-27 13:51:00,310 INFO - Epoch 6/10
+2018-09-27 13:51:03,256 INFO - 2s - loss: 0.5129 - acc: 0.9261 - val_loss: 1.7252 - val_acc: 0.8201
+2018-09-27 13:51:03,257 INFO - Epoch 7/10
+2018-09-27 13:51:06,202 INFO - 2s - loss: 0.2814 - acc: 0.9647 - val_loss: 1.1549 - val_acc: 0.8836
+2018-09-27 13:51:06,202 INFO - Epoch 8/10
+2018-09-27 13:51:09,144 INFO - 2s - loss: 0.1622 - acc: 0.9819 - val_loss: 1.6010 - val_acc: 0.8597
+2018-09-27 13:51:09,144 INFO - Epoch 9/10
+2018-09-27 13:51:12,063 INFO - 2s - loss: 0.1657 - acc: 0.9819 - val_loss: 1.3128 - val_acc: 0.8824
+2018-09-27 13:51:12,064 INFO - Epoch 10/10
+2018-09-27 13:51:15,009 INFO - 2s - loss: 0.1725 - acc: 0.9811 - val_loss: 1.9460 - val_acc: 0.8358
+2018-09-27 13:51:15,311 INFO - Accuracy: 83.333333
+
+
+Siamese
+
+60s - loss: 0.2638 - acc: 0.5630 - val_loss: 0.1331 - val_acc: 0.8248
+Epoch 2/5
+56s - loss: 0.0739 - acc: 0.9216 - val_loss: 0.1138 - val_acc: 0.8563
+Epoch 3/5
+55s - loss: 0.0567 - acc: 0.9366 - val_loss: 0.1060 - val_acc: 0.8759
+Epoch 4/5
+56s - loss: 0.0469 - acc: 0.9479 - val_loss: 0.1039 - val_acc: 0.8852
+Epoch 5/5
+55s - loss: 0.0415 - acc: 0.9541 - val_loss: 0.1035 - val_acc: 0.8759
+3920/3920 [==============================] - 15s     
+Accuracy: 86.862245
+
+
+attrib_mlp_charngrams
+Accuracy: 54.176392
+
+
+attrib_cnn_charngrams
+Accuracy: 72.353066
+

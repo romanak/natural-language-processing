@@ -1,0 +1,45 @@
+from keras.models import Sequential
+from keras.layers import Embedding,Dense,Flatten
+import numpy as np
+
+import vocab_generator as V_gen
+import random
+import re
+from sentences_generator import Sentences
+import sys
+from keras.preprocessing.sequence import pad_sequences
+
+
+def collect_data(textFile,max_len):
+    data=[]
+    sentences = Sentences(textFile)
+    vocab = dict()
+    labels=[]
+    V_gen.build_vocabulary_v2(vocab, sentences)
+    for s in sentences:
+        words=[]
+        m=re.match("^([^\t]+)\t(.+)$",s.rstrip())
+        if m:
+            sentence=m.group(1)
+            labels.append(int(m.group(2)))
+        for w in sentence.split(" "):
+            w=re.sub("[.,:;'\"!?()]+","",w.lower())
+            if w!='':
+                words.append(vocab[w])
+        data.append(words)
+    data = pad_sequences(data, maxlen=max_len, padding='post')
+    return data,labels, vocab            
+
+
+max_len=100
+data,labels,vocab=collect_data(sys.argv[1],max_len)
+
+model = Sequential()
+embedding=Embedding(len(vocab), 100, input_length=max_len)
+model.add(embedding)
+model.add(Flatten())
+model.add(Dense(1,activation="sigmoid"))
+model.compile(loss='binary_crossentropy', optimizer='rmsprop',metrics=['acc'])
+model.fit(data,labels,epochs=100, verbose=1)
+loss, accuracy = model.evaluate(data, labels, verbose=0)
+print accuracy

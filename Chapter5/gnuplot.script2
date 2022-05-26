@@ -1,0 +1,26 @@
+# Run: gnuplot gnuplot.script2 > memnn.contexts.png
+set terminal png
+
+# Read comma-delimited data from file
+set datafile separator comma
+
+# Set graph title
+set title 'Training accuracy on held-out data'
+
+# Set label of x-axis
+set xlabel 'Epoch'
+
+# Set label of y-axis
+set ylabel 'Accuracy'
+
+# Use a line graph
+set style data line
+
+# Plot data from a file, with extra notes below:
+#
+# for [i=2:5]         Loop for values of i between 2 and 5 (inclusive)
+# using i:xtic(1)     Plot column i using tick labels from column 1
+# title columnheader  Use the column headers (first row) as titles
+# linewidth 4         Use a wider line width
+#
+plot for [i=2:5] 'memnn.results.csv' using i:xtic(1) title columnheader linewidth 4

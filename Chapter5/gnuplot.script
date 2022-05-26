@@ -1,0 +1,7 @@
+set terminal png
+set title 'Context=0, test accuracy=1.0'
+set xlabel 'Epoch'
+set ylabel 'Training accuracy (held-out data)'
+set style fill solid 0.3
+set style data line
+plot 'memnn.context0.tsv'
